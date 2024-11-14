@@ -29,5 +29,11 @@ class MainMenu : AppCompatActivity() {
             var intent = Intent(this, NasaAPI::class.java)
             startActivity(intent)
         }
+
+        var earthSatActivityButton: Button = findViewById(R.id.launch_earth_sat_activity)
+        earthSatActivityButton.setOnClickListener{
+            val earthSatActivity = Intent(this, EarthSatImg::class.java)
+            startActivity(earthSatActivity)
+        }
     }
 }
