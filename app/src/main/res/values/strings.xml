@@ -14,4 +14,6 @@
     <string name="clear_button_text">Clear</string>
     <string name="earth_satellite_images">Earth Satellite Images</string>
     <string name="nasa">NASA</string>
+    <string name="enter_a_longitude">Enter a Longitude</string>
+    <string name="enter_a_latitude">Enter a Latitude</string>
 </resources>
