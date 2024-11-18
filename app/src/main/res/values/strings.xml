@@ -16,4 +16,6 @@
     <string name="nasa">NASA</string>
     <string name="enter_a_longitude">Enter a Longitude</string>
     <string name="enter_a_latitude">Enter a Latitude</string>
+    <string name="enter_a_date">Enter a Date</string>
+    <string name="search">Search</string>
 </resources>
